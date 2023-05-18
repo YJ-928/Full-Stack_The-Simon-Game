@@ -4,7 +4,7 @@
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD.svg?sstyle=flat&logo=jQuery&logoColor=white)
 ![SimonGame](https://img.shields.io/badge/Simon%20Game-important?style=flat)
 
-# Full Stack: The Simon Game.
+# The Simon Game
 #### A Simon Game created using simple JQuery and JavaScript. Enjoy and have fun!
 
 ![image](https://github.com/YJ-928/Full-Stack_The-Simon-Game/assets/68319416/fedfc85a-8982-4853-81f2-388fb88161df)
